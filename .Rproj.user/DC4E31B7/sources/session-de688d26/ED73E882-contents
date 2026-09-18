@@ -2,7 +2,7 @@ omp.bn <- function(x, skel = NULL, R = NULL, method = "pvalue", tol = 0.05, algo
                    tabu = 10, restart = 10, score = "bic-g", blacklist = NULL, whitelist = NULL) {
   ## score -> "loglik-g", "aic-g", "bic-g", "bge"
   runtime <- proc.time()
-  if ( is.null(skel) )  skel <- omp.bn::omp.network(x, R = R, method = method, tol = tol)
+  if ( is.null(skel) )  skel <- ompbn::omp.network(x, R = R, method = method, tol = tol)
   nama <- colnames(skel$G)
   vale <- which(skel$G == 1)
   dag <- NULL
