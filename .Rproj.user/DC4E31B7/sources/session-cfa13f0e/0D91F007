@@ -1,26 +1,26 @@
 {
-    "id": "537666E3",
-    "path": "~/GitHub/ompbn/R/omp.bn.R",
-    "project_path": "R/omp.bn.R",
-    "type": "r_source",
+    "id": "0D91F007",
+    "path": "~/GitHub/ompbn/man/omp.bn.Rd",
+    "project_path": "man/omp.bn.Rd",
+    "type": "r_doc",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1789715972222.0,
+    "created": 1789738080829.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,88",
-        "scrollLine": "0"
+        "cursorPosition": "21,19",
+        "scrollLine": "85"
     },
     "folds": "",
-    "lastKnownWriteTime": 1789716048,
+    "lastKnownWriteTime": 1789715609,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1789716048290,
+    "last_content_update": 1789715609,
     "read_only": false,
     "read_only_alternatives": []
 }

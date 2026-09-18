@@ -1,26 +1,26 @@
 {
-    "id": "B1C6013C",
-    "path": "~/GitHub/ompbn/R/rbn.R",
-    "project_path": "R/rbn.R",
-    "type": "r_source",
+    "id": "784672A0",
+    "path": "~/GitHub/ompbn/man/bnplot.Rd",
+    "project_path": "man/bnplot.Rd",
+    "type": "r_doc",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1789715846767.0,
+    "created": 1789738070068.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,0",
-        "scrollLine": "0"
+        "cursorPosition": "62,5",
+        "scrollLine": "44"
     },
     "folds": "",
-    "lastKnownWriteTime": 1789713113,
+    "lastKnownWriteTime": 1789738075,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1789713113,
+    "last_content_update": 1789738075980,
     "read_only": false,
     "read_only_alternatives": []
 }
